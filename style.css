@@ -1,0 +1,54 @@
+img {
+  width: 20px;
+}
+.container1 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+#dockimg {
+  width: 70px;
+  padding-left: 80px;
+}
+.contain {
+  padding-left: 700px;
+  padding-top: 300px;
+}
+.contain h2 {
+  color: rgb(140, 143, 145);
+  padding-left: 55px;
+}
+.contains {
+  padding-left: 600px;
+  position: relative;
+}
+.contains i {
+  position: absolute;
+  left: 1020px;
+  top: 5px;
+}
+p {
+  text-align: center;
+  padding-left: 120px;
+  padding-top: 20px;
+  color: rgb(208, 209, 210);
+}
+
+#containz {
+  height: 30px;
+  width: 430px;
+  border-radius: 5px;
+}
+#ppp {
+  color: rgb(121, 194, 233);
+}
+
+#edit {
+  color: rgb(208, 209, 210);
+}
+#edit2 {
+  color: rgb(208, 209, 210);
+}
+#edit3 {
+  color: rgb(208, 209, 210);
+}
